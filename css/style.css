@@ -1,0 +1,16 @@
+.profilepic {
+	max-width:100%;
+	min-height:50%;
+}
+.col-md-8 {color: black;}
+.bodystyle {background-size:cover;padding-top: 70px;}
+.rightcolumn {margin-top: 50;}
+.leftcolumn {margin-top: 10; opacity: 0.8}
+
+.parallax {
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.rightcolstyle {background-color: #CCC; opacity: 0.8; margin-top: 10;}
